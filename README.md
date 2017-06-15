@@ -1,3 +1,1 @@
 # ThingspeakPhoto
-# ThingspeakPhoto
-# ThingspeakPhoto
